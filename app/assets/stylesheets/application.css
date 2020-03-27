@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+     background-image: url(https://i.pinimg.com/originals/eb/f2/b1/ebf2b1e0b9de6ed73c0612f19ac9235c.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+
+#card1 {
+     padding-top: 20px;
+ }
+
+ #list {
+     padding: 20px;
+ }
+
+ #form2 {
+     padding-left: 750px;
+     padding-top: 30px;
+ }
